@@ -1,0 +1,6 @@
+Resources:
+    TestBucketsample:
+      Type: 'AWS::S3::Bucket'
+
+
+  
